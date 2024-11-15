@@ -14,7 +14,7 @@ function App() {
     
       <Box>
         <ItemDetailForm />
-        <SupplierDetailForm />
+        {/* <SupplierDetailForm /> */}
 
       </Box>
     </div>
